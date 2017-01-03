@@ -1,0 +1,70 @@
+
+.menus{
+    background: url(../image/kotak8.jpg);
+    padding-top: -10px;
+}
+.menu{
+	background: rgba(0,89,113,0.5);
+	padding: 3%;
+	width: 43%;
+	margin-right: 25px;
+	float: left;
+}
+.menu-title p{
+	font: 35px "Lobster", "Trebuchet MS", Arial; 
+	margin-bottom: 3%;
+	color: white;
+}
+.main-menu{
+	font: 20px "Trebuchet Ms", Arial;
+	text-transform: uppercase;
+	text-decoration: bold;
+	padding-top: 3%;
+	color: white;
+}
+.menu-desc{
+	font: 13px "Trebuchet MS", Arial; 
+	color: #bfd8e2;
+}
+.menu-image{
+	width: 40%;
+	float: left;
+}
+.panel-heading .panel-title {
+	font: 220% "Lobster", "Trebuchet MS", Arial, Sans-Serif; 
+	color: #fff;
+	text-decoration: none;
+	text-align: center;
+
+}
+.panel-heading .panel-title a{
+	text-decoration: none;
+}
+.panel-transparent{
+	background: none;
+	box-shadow: none;
+}
+.panel-heading{
+	background: url(../image/kaki4.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.carousel-inner{
+	border: 5px solid #fb8c48;
+	padding-right: -200px;
+
+}
+.panel-body{
+	margin-left: 40px;
+	margin-right: -20px;
+}
+@media screen and (max-width: 480px){
+	.panel-heading .panel-title{
+		font-size: 22px;
+		text-align: center;
+	}
+	.panel-body{
+		margin-left: -40px;
+		margin-right: -20px;
+	}
+}

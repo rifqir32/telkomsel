@@ -1,0 +1,14 @@
+#content-home .carousel-inner{
+	border: 5px solid #fb8c48;
+	padding-right: -200px;
+
+}
+@media screen and (max-width:480px){
+	#conten-home .menu-image{
+		width: 100%;
+		float: none;
+	}
+	.carousel-indicators{
+		display: none;
+	}
+}

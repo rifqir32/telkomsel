@@ -1,0 +1,103 @@
+#carousel1 .carousel-inner .carousel-caption {width: 100%;top: auto;left: 0;bottom: 0;padding: 0;margin: 0;}
+#carousel1 .carousel-inner .carousel-caption h2 {background: url(../image/box7-active.png) no-repeat right top;border: 0;border-radius: 0; bottom: 0;left: 0;width: 235px;height: 117px;position: relative;text-indent: 0;float: left;margin: 0;font: 40px "Lobster", "Trebuchet MS", Arial, sans-serif;color: #fff;text-align: center;padding-top: 30px; }
+#carousel1 .carousel-inner .carousel-caption p {background: url(../image/box7.png);border: 0;border-radius: 0;text-align: left;bottom: 0;left: 0;width: 695px;height: 102px;position: relative;text-indent: 0;float: left;margin: 0;  color: #8b744f;font: italic 12px/22px "Georgia", "Trebuchet MS", Arial;text-transform: none;margin: 0;padding: 18px 25px;text-shadow: 1px 1px rgba(0,0,0,0.1);top: 15px;}
+#carousel1 .carousel-control {background: url(../image/slider-arrows.png) no-repeat;text-indent: -9999px; height: 88px; width: 50px;top: 38%;opacity: 1;filter: none;background-size: 200%;}
+#carousel1 .carousel-control:hover {opacity: 1}
+#carousel1 .carousel-control.left {left: -45px;}
+#carousel1 .carousel-control.right {background-position: -50px 0;right: -45px;}
+
+#carousel2 .carousel-inner .carousel-caption {width: 100%;top: auto;left: 0;bottom: 0;padding: 0;margin: 0;}
+#carousel2 .carousel-inner .carousel-caption h2 {background: url(../image/box7-active.png) no-repeat right top;border: 0;border-radius: 0; bottom: 0;left: 0;width: 235px;height: 117px;position: relative;text-indent: 0;float: left;margin: 0;font: 40px "Lobster", "Trebuchet MS", Arial, sans-serif;color: #fff;text-align: center;padding-top: 30px; }
+#carousel2 .carousel-inner .carousel-caption p {background: url(../image/box7.png);border: 0;border-radius: 0;text-align: left;bottom: 0;left: 0;width: 695px;height: 102px;position: relative;text-indent: 0;float: left;margin: 0;  color: #8b744f;font: italic 12px/22px "Georgia", "Trebuchet MS", Arial;text-transform: none;margin: 0;padding: 18px 25px;text-shadow: 1px 1px rgba(0,0,0,0.1);top: 15px;}
+#carousel2 .carousel-control {background: url(../image/slider-arrows.png) no-repeat;text-indent: -9999px; height: 88px; width: 50px;top: 38%;opacity: 1;filter: none;background-size: 200%;}
+#carousel2 .carousel-control:hover {opacity: 1}
+#carousel2 .carousel-control.left {left: -45px;}
+#carousel2 .carousel-control.right {background-position: -50px 0;right: -45px;}
+
+#carousel3 .carousel-inner .carousel-caption {width: 100%;top: auto;left: 0;bottom: 0;padding: 0;margin: 0;}
+#carousel3 .carousel-inner .carousel-caption h2 {background: url(../image/box7-active.png) no-repeat right top;border: 0;border-radius: 0; bottom: 0;left: 0;width: 235px;height: 117px;position: relative;text-indent: 0;float: left;margin: 0;font: 40px "Lobster", "Trebuchet MS", Arial, sans-serif;color: #fff;text-align: center;padding-top: 30px; }
+#carousel3 .carousel-inner .carousel-caption p {background: url(../image/box7.png);border: 0;border-radius: 0;text-align: left;bottom: 0;left: 0;width: 695px;height: 102px;position: relative;text-indent: 0;float: left;margin: 0;  color: #8b744f;font: italic 12px/22px "Georgia", "Trebuchet MS", Arial;text-transform: none;margin: 0;padding: 18px 25px;text-shadow: 1px 1px rgba(0,0,0,0.1);top: 15px;}
+#carousel3 .carousel-control {background: url(../image/slider-arrows.png) no-repeat;text-indent: -9999px; height: 88px; width: 50px;top: 38%;opacity: 1;filter: none;background-size: 200%;}
+#carousel3 .carousel-control:hover {opacity: 1}
+#carousel3 .carousel-control.left {left: -45px;}
+#carousel3 .carousel-control.right {background-position: -50px 0;right: -45px;}
+
+#carousel4 .carousel-inner .carousel-caption {width: 100%;top: auto;left: 0;bottom: 0;padding: 0;margin: 0;}
+#carousel4 .carousel-inner .carousel-caption h2 {background: url(../image/box7-active.png) no-repeat right top;border: 0;border-radius: 0; bottom: 0;left: 0;width: 235px;height: 117px;position: relative;text-indent: 0;float: left;margin: 0;font: 40px "Lobster", "Trebuchet MS", Arial, sans-serif;color: #fff;text-align: center;padding-top: 30px; }
+#carousel4 .carousel-inner .carousel-caption p {background: url(../image/box7.png);border: 0;border-radius: 0;text-align: left;bottom: 0;left: 0;width: 695px;height: 102px;position: relative;text-indent: 0;float: left;margin: 0;  color: #8b744f;font: italic 12px/22px "Georgia", "Trebuchet MS", Arial;text-transform: none;margin: 0;padding: 18px 25px;text-shadow: 1px 1px rgba(0,0,0,0.1);top: 15px;}
+#carousel4 .carousel-control {background: url(../image/slider-arrows.png) no-repeat;text-indent: -9999px; height: 88px; width: 50px;top: 38%;opacity: 1;filter: none;background-size: 200%;}
+#carousel4 .carousel-control:hover {opacity: 1}
+#carousel4 .carousel-control.left {left: -45px;}
+#carousel4 .carousel-control.right {background-position: -50px 0;right: -45px;}
+
+#carousel5 .carousel-inner .carousel-caption {width: 100%;top: auto;left: 0;bottom: 0;padding: 0;margin: 0;}
+#carousel5 .carousel-inner .carousel-caption h2 {background: url(../image/box7-active.png) no-repeat right top;border: 0;border-radius: 0; bottom: 0;left: 0;width: 235px;height: 117px;position: relative;text-indent: 0;float: left;margin: 0;font: 40px "Lobster", "Trebuchet MS", Arial, sans-serif;color: #fff;text-align: center;padding-top: 30px; }
+#carousel5 .carousel-inner .carousel-caption p {background: url(../image/box7.png);border: 0;border-radius: 0;text-align: left;bottom: 0;left: 0;width: 695px;height: 102px;position: relative;text-indent: 0;float: left;margin: 0;  color: #8b744f;font: italic 12px/22px "Georgia", "Trebuchet MS", Arial;text-transform: none;margin: 0;padding: 18px 25px;text-shadow: 1px 1px rgba(0,0,0,0.1);top: 15px;}
+#carousel5 .carousel-control {background: url(../image/slider-arrows.png) no-repeat;text-indent: -9999px; height: 88px; width: 50px;top: 38%;opacity: 1;filter: none;background-size: 200%;}
+#carousel5 .carousel-control:hover {opacity: 1}
+#carousel5 .carousel-control.left {left: -45px;}
+#carousel5 .carousel-control.right {background-position: -50px 0;right: -45px;}
+
+#carousel6 .carousel-inner .carousel-caption {width: 100%;top: auto;left: 0;bottom: 0;padding: 0;margin: 0;}
+#carousel6 .carousel-inner .carousel-caption h2 {background: url(../image/box7-active.png) no-repeat right top;border: 0;border-radius: 0; bottom: 0;left: 0;width: 235px;height: 117px;position: relative;text-indent: 0;float: left;margin: 0;font: 40px "Lobster", "Trebuchet MS", Arial, sans-serif;color: #fff;text-align: center;padding-top: 30px; }
+#carousel6 .carousel-inner .carousel-caption p {background: url(../image/box7.png);border: 0;border-radius: 0;text-align: left;bottom: 0;left: 0;width: 695px;height: 102px;position: relative;text-indent: 0;float: left;margin: 0;  color: #8b744f;font: italic 12px/22px "Georgia", "Trebuchet MS", Arial;text-transform: none;margin: 0;padding: 18px 25px;text-shadow: 1px 1px rgba(0,0,0,0.1);top: 15px;}
+#carousel6 .carousel-control {background: url(../image/slider-arrows.png) no-repeat;text-indent: -9999px; height: 88px; width: 50px;top: 38%;opacity: 1;filter: none;background-size: 200%;}
+#carousel6 .carousel-control:hover {opacity: 1}
+#carousel6 .carousel-control.left {left: -45px;}
+#carousel6 .carousel-control.right {background-position: -50px 0;right: -45px;}
+
+#carousel7 .carousel-inner .carousel-caption {width: 100%;top: auto;left: 0;bottom: 0;padding: 0;margin: 0;}
+#carousel7 .carousel-inner .carousel-caption h2 {background: url(../image/box7-active.png) no-repeat right top;border: 0;border-radius: 0; bottom: 0;left: 0;width: 235px;height: 117px;position: relative;text-indent: 0;float: left;margin: 0;font: 40px "Lobster", "Trebuchet MS", Arial, sans-serif;color: #fff;text-align: center;padding-top: 30px; }
+#carousel7 .carousel-inner .carousel-caption p {background: url(../image/box7.png);border: 0;border-radius: 0;text-align: left;bottom: 0;left: 0;width: 695px;height: 102px;position: relative;text-indent: 0;float: left;margin: 0;  color: #8b744f;font: italic 12px/22px "Georgia", "Trebuchet MS", Arial;text-transform: none;margin: 0;padding: 18px 25px;text-shadow: 1px 1px rgba(0,0,0,0.1);top: 15px;}
+#carousel7 .carousel-control {background: url(../image/slider-arrows.png) no-repeat;text-indent: -9999px; height: 88px; width: 50px;top: 38%;opacity: 1;filter: none;background-size: 200%;}
+#carousel7 .carousel-control:hover {opacity: 1}
+#carousel7 .carousel-control.left {left: -45px;}
+#carousel7 .carousel-control.right {background-position: -50px 0;right: -45px;}
+
+#carousel8 .carousel-inner .carousel-caption {width: 100%;top: auto;left: 0;bottom: 0;padding: 0;margin: 0;}
+#carousel8 .carousel-inner .carousel-caption h2 {background: url(../image/box7-active.png) no-repeat right top;border: 0;border-radius: 0; bottom: 0;left: 0;width: 235px;height: 117px;position: relative;text-indent: 0;float: left;margin: 0;font: 40px "Lobster", "Trebuchet MS", Arial, sans-serif;color: #fff;text-align: center;padding-top: 30px; }
+#carousel8 .carousel-inner .carousel-caption p {background: url(../image/box7.png);border: 0;border-radius: 0;text-align: left;bottom: 0;left: 0;width: 695px;height: 102px;position: relative;text-indent: 0;float: left;margin: 0;  color: #8b744f;font: italic 12px/22px "Georgia", "Trebuchet MS", Arial;text-transform: none;margin: 0;padding: 18px 25px;text-shadow: 1px 1px rgba(0,0,0,0.1);top: 15px;}
+#carousel8 .carousel-control {background: url(../image/slider-arrows.png) no-repeat;text-indent: -9999px; height: 88px; width: 50px;top: 38%;opacity: 1;filter: none;background-size: 200%;}
+#carousel8 .carousel-control:hover {opacity: 1}
+#carousel8 .carousel-control.left {left: -45px;}
+#carousel8 .carousel-control.right {background-position: -50px 0;right: -45px;}
+
+#carousel9 .carousel-inner .carousel-caption {width: 100%;top: auto;left: 0;bottom: 0;padding: 0;margin: 0;}
+#carousel9 .carousel-inner .carousel-caption h2 {background: url(../image/box7-active.png) no-repeat right top;border: 0;border-radius: 0; bottom: 0;left: 0;width: 235px;height: 117px;position: relative;text-indent: 0;float: left;margin: 0;font: 40px "Lobster", "Trebuchet MS", Arial, sans-serif;color: #fff;text-align: center;padding-top: 30px; }
+#carousel9 .carousel-inner .carousel-caption p {background: url(../image/box7.png);border: 0;border-radius: 0;text-align: left;bottom: 0;left: 0;width: 695px;height: 102px;position: relative;text-indent: 0;float: left;margin: 0;  color: #8b744f;font: italic 12px/22px "Georgia", "Trebuchet MS", Arial;text-transform: none;margin: 0;padding: 18px 25px;text-shadow: 1px 1px rgba(0,0,0,0.1);top: 15px;}
+#carousel9 .carousel-control {background: url(../image/slider-arrows.png) no-repeat;text-indent: -9999px; height: 88px; width: 50px;top: 38%;opacity: 1;filter: none;background-size: 200%;}
+#carousel9 .carousel-control:hover {opacity: 1}
+#carousel9 .carousel-control.left {left: -45px;}
+#carousel9 .carousel-control.right {background-position: -50px 0;right: -45px;}
+
+#carousel10 .carousel-inner .carousel-caption {width: 100%;top: auto;left: 0;bottom: 0;padding: 0;margin: 0;}
+#carousel10 .carousel-inner .carousel-caption h2 {background: url(../image/box7-active.png) no-repeat right top;border: 0;border-radius: 0; bottom: 0;left: 0;width: 235px;height: 117px;position: relative;text-indent: 0;float: left;margin: 0;font: 40px "Lobster", "Trebuchet MS", Arial, sans-serif;color: #fff;text-align: center;padding-top: 30px; }
+#carousel10 .carousel-inner .carousel-caption p {background: url(../image/box7.png);border: 0;border-radius: 0;text-align: left;bottom: 0;left: 0;width: 695px;height: 102px;position: relative;text-indent: 0;float: left;margin: 0;  color: #8b744f;font: italic 12px/22px "Georgia", "Trebuchet MS", Arial;text-transform: none;margin: 0;padding: 18px 25px;text-shadow: 1px 1px rgba(0,0,0,0.1);top: 15px;}
+#carousel10 .carousel-control {background: url(../image/slider-arrows.png) no-repeat;text-indent: -9999px; height: 88px; width: 50px;top: 38%;opacity: 1;filter: none;background-size: 200%;}
+#carousel10 .carousel-control:hover {opacity: 1}
+#carousel10 .carousel-control.left {left: -45px;}
+#carousel10 .carousel-control.right {background-position: -50px 0;right: -45px;}
+
+#carousel11 .carousel-inner .carousel-caption {width: 100%;top: auto;left: 0;bottom: 0;padding: 0;margin: 0;}
+#carousel11 .carousel-inner .carousel-caption h2 {background: url(../image/box7-active.png) no-repeat right top;border: 0;border-radius: 0; bottom: 0;left: 0;width: 235px;height: 117px;position: relative;text-indent: 0;float: left;margin: 0;font: 40px "Lobster", "Trebuchet MS", Arial, sans-serif;color: #fff;text-align: center;padding-top: 30px; }
+#carousel11 .carousel-inner .carousel-caption p {background: url(../image/box7.png);border: 0;border-radius: 0;text-align: left;bottom: 0;left: 0;width: 695px;height: 102px;position: relative;text-indent: 0;float: left;margin: 0;  color: #8b744f;font: italic 12px/22px "Georgia", "Trebuchet MS", Arial;text-transform: none;margin: 0;padding: 18px 25px;text-shadow: 1px 1px rgba(0,0,0,0.1);top: 15px;}
+#carousel11 .carousel-control {background: url(../image/slider-arrows.png) no-repeat;text-indent: -9999px; height: 88px; width: 50px;top: 38%;opacity: 1;filter: none;background-size: 200%;}
+#carousel11 .carousel-control:hover {opacity: 1}
+#carousel11 .carousel-control.left {left: -45px;}
+#carousel11 .carousel-control.right {background-position: -50px 0;right: -45px;}
+
+#carousel12 .carousel-inner .carousel-caption {width: 100%;top: auto;left: 0;bottom: 0;padding: 0;margin: 0;}
+#carousel12 .carousel-inner .carousel-caption h2 {background: url(../image/box7-active.png) no-repeat right top;border: 0;border-radius: 0; bottom: 0;left: 0;width: 235px;height: 117px;position: relative;text-indent: 0;float: left;margin: 0;font: 40px "Lobster", "Trebuchet MS", Arial, sans-serif;color: #fff;text-align: center;padding-top: 30px; }
+#carousel12 .carousel-inner .carousel-caption p {background: url(../image/box7.png);border: 0;border-radius: 0;text-align: left;bottom: 0;left: 0;width: 695px;height: 102px;position: relative;text-indent: 0;float: left;margin: 0;  color: #8b744f;font: italic 12px/22px "Georgia", "Trebuchet MS", Arial;text-transform: none;margin: 0;padding: 18px 25px;text-shadow: 1px 1px rgba(0,0,0,0.1);top: 15px;}
+#carousel12 .carousel-control {background: url(../image/slider-arrows.png) no-repeat;text-indent: -9999px; height: 88px; width: 50px;top: 38%;opacity: 1;filter: none;background-size: 200%;}
+#carousel12 .carousel-control:hover {opacity: 1}
+#carousel12 .carousel-control.left {left: -45px;}
+#carousel12 .carousel-control.right {background-position: -50px 0;right: -45px;}
+
+#carousel13 .carousel-inner .carousel-caption {width: 100%;top: auto;left: 0;bottom: 0;padding: 0;margin: 0;}
+#carousel13 .carousel-inner .carousel-caption h2 {background: url(../image/box7-active.png) no-repeat right top;border: 0;border-radius: 0; bottom: 0;left: 0;width: 235px;height: 117px;position: relative;text-indent: 0;float: left;margin: 0;font: 40px "Lobster", "Trebuchet MS", Arial, sans-serif;color: #fff;text-align: center;padding-top: 30px; }
+#carousel13 .carousel-inner .carousel-caption p {background: url(../image/box7.png);border: 0;border-radius: 0;text-align: left;bottom: 0;left: 0;width: 695px;height: 102px;position: relative;text-indent: 0;float: left;margin: 0;  color: #8b744f;font: italic 12px/22px "Georgia", "Trebuchet MS", Arial;text-transform: none;margin: 0;padding: 18px 25px;text-shadow: 1px 1px rgba(0,0,0,0.1);top: 15px;}
+#carousel13 .carousel-control {background: url(../image/slider-arrows.png) no-repeat;text-indent: -9999px; height: 88px; width: 50px;top: 38%;opacity: 1;filter: none;background-size: 200%;}
+#carousel13 .carousel-control:hover {opacity: 1}
+#carousel13 .carousel-control.left {left: -45px;}
+#carousel13 .carousel-control.right {background-position: -50px 0;right: -45px;}
