@@ -152,7 +152,7 @@
                 <div class="box-body">
                   <table id="example1" class="table table-bordered table-striped" >
                     <thead>
-                      <tr width ="400px">
+                      <tr width =" 400px">
                         <th width ="10px">id_peminjaman</th>
                         <th width="10px">nama karyawan</th>
                         <th>divisi</th>
@@ -180,10 +180,10 @@
                         <td><?php echo $d['tempat_tujuan']; ?></td>
                         <td><?php echo $d['waktu_pemakaian']; ?></td>
                         <td><?php echo $d['waktu_kembali']; ?></td>
-                        <td><?php echo $d['kondisi']; ?></td>
+                        <td><?php echo $d['Kondisi']; ?></td>
                         <td>
-                          <a href="<?php echo base_url()."kelola_posting/edit_menu/".$d['id_peminjaman']; ?>">Edit</a>
-                          <a href="<?php echo base_url()."kelola_posting/do_delete/".$d['id_peminjaman']; ?>">Delete</a>
+                          <a href="<?php echo base_url()."kelola_pinjaman/edit_menu/".$d['id_peminjaman']; ?>">Edit</a>
+                          <a href="<?php echo base_url()."kelola_pinjaman/do_delete/".$d['id_peminjaman']; ?>">Delete</a>
                         </td>
                       </tr>
                       <?php } ?>
@@ -229,7 +229,9 @@
     <!-- page script -->
     <script>
       $(function () {
-        $("#example1").DataTable();
+        $("#example1").DataTable({
+          "scrollX": true
+        });
         $('#example2').DataTable({
           "paging": true,
           "lengthChange": false,

@@ -109,7 +109,7 @@ $autoload['language'] = array();
 |
 */
 
-$autoload['model'] = array('telkomsel_model');
+$autoload['model'] = array('telkomsel_model', 'web_service_model');
 
 
 /* End of file autoload.php */

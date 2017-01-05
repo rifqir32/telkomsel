@@ -24,7 +24,7 @@
          folder instead of downloading all of them to reduce the load. -->
     <link rel="stylesheet" href="<?php echo base_url()."assets/admin/" ?>dist/css/skins/_all-skins.min.css">
     <!-- iCheck -->
-    <link rel="stylesheet" href="<?php echo base_url()."assets/admin/" ?>plugins/iCheck/flat/blue.css">
+    <link rel="stylesheet" href="<?php echo base_url()."assets/admin/" ?>plugins/iCheck/flat/red.css">
     <!-- Morris chart -->
     <link rel="stylesheet" href="<?php echo base_url()."assets/admin/" ?>plugins/morris/morris.css">
     <!-- jvectormap -->
@@ -43,7 +43,7 @@
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-  <body class="hold-transition skin-blue sidebar-mini">
+  <body class="hold-transition skin-red sidebar-mini">
     <div class="wrapper">
 
       <header class="main-header">
