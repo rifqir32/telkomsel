@@ -119,7 +119,7 @@
                 </a>
             </li>
             <li class=" treeview">
-                <a href=<?php echo base_url()."kelola_posting"; ?>
+                <a href=<?php echo base_url()."kelola_pinjaman"; ?>
                   <i class="fa fa-files-o"></i> <span>Kelola pinjaman</span>
                 </a>
             </li>
