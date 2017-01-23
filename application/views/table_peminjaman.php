@@ -164,7 +164,7 @@
                         <th>waktu_pemakaian</th>
                         <th>waktu_kembali</th>
                         <th>kondisi</th>
-                        <th width = "200px">Action</th>
+                        <th width = "300px">Action</th>
 
                       </tr>
                     </thead>
@@ -182,9 +182,9 @@
                         <td><?php echo $d['waktu_pemakaian']; ?></td>
                         <td><?php echo $d['waktu_kembali']; ?></td>
                         <td><?php echo $d['Kondisi']; ?></td>
-                        <td>
-                          <a href="<?php echo base_url()."kelola_pinjaman/edit_menu/".$d['idpeminjaman']; ?>"><button type="button" class="btn btn-primary">APPROVE</button></a>
-                          <a href="<?php echo base_url()."kelola_pinjaman/do_delete/".$d['idpeminjaman']; ?>"><button type="button" class="btn btn-danger">TOLAK</button></a>
+                        <td width ="100px">
+                          <a href="<?php echo base_url()."kelola_pinjaman/edit_menu/".$d['idpeminjaman']; ?>"><button type="button" class="btn btn-primary btn-small"><span class="glyphicon glyphicon-ok" aria-hidden="true"></span></button></a>
+                          <a href="<?php echo base_url()."kelola_pinjaman/do_delete/".$d['idpeminjaman']; ?>"><button type="button" class="btn btn-danger"><span class="glyphicon glyphicon-remove" aria-hidden="true"></span></button></a>
                         </td>
                       </tr>
                       <?php } ?>

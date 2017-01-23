@@ -15,6 +15,11 @@ class kelola_pinjaman extends CI_Controller {
 			);
 		$this->load->view('form_posting_edit', array('data' => $data));
 	}
+	public function approve_peminjaman($idpeminjaman){
+		$ubah_status = $this->telkomsel_model->GetPeminjaman("where idpeminjaman = '$idpeminjaman'");
+
+
+	}
 
 	public function do_update(){
 		$id_kategori_makanan = $_POST['id_kategori_makanan'];

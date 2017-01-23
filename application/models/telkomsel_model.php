@@ -59,6 +59,11 @@ class telkomsel_model extends CI_Model {
 		return $data->result_array();
 	}
 
+	public function updatePeminjaman($where = ""){
+		$data = $this->db->query('update status from peminjaman value()');
+	
+	}
+
 	public function GetPictPaket($where = ""){
 		$data = $this->db->query('select pic.id_pict_paket, pic.id_paket, pic.pict_paket, kat.kategori_paket
 								from pict_paket pic join paket p
