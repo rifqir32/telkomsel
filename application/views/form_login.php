@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="shortcut icon" href="<?php echo base_url("/assets/image/icon.png") ?>" />
-    <title>Telkomsel Login Admin</title>
+    <title>Sanpeko Login Admin</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.5 -->
@@ -35,7 +35,7 @@
           <!-- mini logo for sidebar mini 50x50 pixels -->
           <span class="logo-mini"><center><b>G</b></center></span>
           <!-- logo for regular state and mobile devices -->
-          <span class="logo-lg"><b>CARTERIN</b> Admin</span>
+          <span class="logo-lg"><b>Sanpeko</b> Admin</span>
         </a>
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar navbar-static-top" role="navigation">
@@ -57,7 +57,7 @@
               <!-- general form elements -->
               <div class="box box-primary">
                 <div class="box-header with-border">
-                  <h3 class="box-title">Carterin Admin Panel</h3>
+                  <h3 class="box-title">Sanpeko Admin Panel</h3>
                 </div><!-- /.box-header -->
                 <!-- form start -->
                 <form role="form" method="POST" action="<?php echo base_url()."login/proses_login"; ?>">
@@ -87,7 +87,7 @@
           <b>Version</b> 2.3.0
         </div> -->
         <!-- <strong>Copyright &copy; 2014-2015 <a href="http://almsaeedstudio.com">Almsaeed Studio</a>.</strong> All rights reserved. -->
-        <b>Carterin 2016</b>
+        <b>Sanpeko 2016</b>
       </footer>
 
       <!-- Control Sidebar -->

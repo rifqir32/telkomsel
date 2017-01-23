@@ -9,7 +9,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="shortcut icon" href="<?php echo base_url("/assets/image/icon.png") ?>" />
-    <title> Telkomsel Admin Panel</title>
+    <title> Sanpeko Admin Panel</title>
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=wrap-content, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.5 -->
@@ -43,7 +43,7 @@
           <!-- mini logo for sidebar mini 50x50 pixels -->
           <span class="logo-mini"><center><b>G</b></center></span>
           <!-- logo for regular state and mobile devices -->
-          <span class="logo-lg"><b> Telkomsel's</b> Admin</span>
+          <span class="logo-lg"><b> Sanpeko's</b> Admin</span>
         </a>
         <!-- Header Navbar: style can be found in header.less -->
         <nav class="navbar navbar-static-top" role="navigation">
@@ -57,14 +57,14 @@
               <li class="dropdown user user-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                   <img src="<?php echo base_url()."assets/admin/" ?>dist/img/user2-160x160.jpg" class="user-image" alt="User Image">
-                  <span class="hidden-xs"> Telkomsel Admin</span>
+                  <span class="hidden-xs"> Sanpeko Admin</span>
                 </a>
                 <ul class="dropdown-menu">
                   <!-- User image -->
                   <li class="user-header">
                     <img src="<?php echo base_url()."assets/admin/" ?>dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
                     <p>
-                       Telkomsel
+                       Sanpeko
                       <small>Admin</small>
                     </p>
                   </li>
@@ -90,7 +90,7 @@
               <img src="<?php echo base_url()."assets/admin/" ?>dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
             </div>
             <div class="pull-left info">
-              <p> Telkomsel</p>
+              <p> Sanpeko</p>
             </div>
           </div>
           <!-- sidebar menu: : style can be found in sidebar.less -->
@@ -202,7 +202,7 @@
           <b>Version</b> 2.3.0
         </div> -->
         <!-- <strong>Copyright &copy; 2014-2015 <a href="http://almsaeedstudio.com">Almsaeed Studio</a>.</strong> All rights reserved. -->
-        <b> Telkomsel Resto 2016</b>
+        <b> Sanpeko 2016</b>
       </footer>
 
       <!-- Control Sidebar -->
