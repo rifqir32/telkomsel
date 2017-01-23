@@ -151,6 +151,7 @@
         <section class="content">
           <div class="row">
             <div class="col-md-12">
+             <center> <img width="275px" height="200px" src="<?php echo base_url()."assets/image/" ?>icon.png"?></center>
               <center><h1>Selamat datang di Panel Admin</h1></center>
               <!-- <center><img width="500px" height="300px"src="<?php echo base_url("/assets/image/logo.png") ?>"></center> -->
             </div>

@@ -96,7 +96,7 @@
           <ul class="sidebar-menu">
             <li class="header">MAIN NAVIGATION</li>
             <li class="active treeview">
-              <a href="#">
+              <a href=<?php echo base_url()."home_admin";  ?>
                 <i class="fa fa-dashboard"></i> <span>Dashboard</span>
               </a>
             </li>
@@ -113,7 +113,7 @@
             </li>
               <li class=" treeview">
                 <a href=<?php echo base_url()."kelola_driver"; ?>
-                  <i class="fa fa-files-o"></i> <span>Kelola Driver</span>
+                  <i class="fa glyphicon-scale"></i> <span>Kelola Driver</span>
                 </a>
             </li>
 

@@ -64,7 +64,7 @@
                   <div class="box-body">
                     <div class="form-group">
                       <label>Username</label>
-                      <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Masukkan Username" name="username" required>
+                      <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Masukkan id Karyawan" name="username" required>
                     </div>
                     <div class="form-group">
                       <label>Password</label>
